@@ -1,0 +1,19 @@
+body { 
+	padding-top: 50px; 
+}
+
+#menu-navbar-collapse ul {
+	background-color: white;
+}
+
+.col {
+	background-color: grey;
+	border-color: black;
+	border-width: 1px;
+	padding: 5px 10px 5px;
+	margin-top: 20px;
+}
+
+.col a {
+	color: white;
+}
